@@ -1,2 +1,2 @@
-# Netflix_Clone_Website
+# Homepage of Netflix
 Bharat Intern Web Development Tasks
