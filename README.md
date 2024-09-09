@@ -1,2 +1,2 @@
-# Homepage of Netflix
-Bharat Intern Web Development Tasks
+# Homepage-Of-Netflix
+Web Development
